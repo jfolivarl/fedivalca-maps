@@ -6,7 +6,7 @@ The template was created by [jfolivarl](https://github.com/jfolivarl) for the ma
 
 ## Preview
 
-[![Stylish Portfolio Preview](./img/readme.jpg)](https://gis-juma.github.io/fedivalca-maps)
+[![Stylish Portfolio Preview](/images/README.JPG)](https://gis-juma.github.io/fedivalca-maps)
 
 
 ## Copyright and License
